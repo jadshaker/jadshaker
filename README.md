@@ -8,7 +8,7 @@ Coding since October 14, 2020!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=web-element-creator&theme=prussian)](https://github.com/jadshaker/web-element-creator)
 
-- Just ignore that I only one thing to share
+- Just ignore that I only have one thing to share
 
 [![jadshaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jadshaker&layout=compact)](https://github.com/jadshaker)
 
