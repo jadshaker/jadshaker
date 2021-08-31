@@ -6,6 +6,8 @@ Coding since October 14, 2020!
 
 - I developed [web-element-creator](https://jadshaker.github.io/web-element-creator)
 
+- I am currently working on [wallpapers-update](https://github.com/jadshaker/wallpapers-update)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=web-element-creator&theme=prussian)](https://github.com/jadshaker/web-element-creator)
 
 - Just ignore that I only have one thing to share
