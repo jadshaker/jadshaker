@@ -4,10 +4,10 @@
 
 Coding since October 14, 2020!
 
-- 🔭 I’m currently working on [wallpapers-update](https://github.com/jadshaker/wallpapers-update) and [web-element-creator](https://jadshaker.github.io/web-element-creator)
+- 🔭 I’m currently working on [wallpapers-update](https://github.com/jadshaker/wallpapers-update), and [whatsapp-bot](https://github.com/mohamadlakkis/whatsapp-bot) with [mohamadlakkis](https://github.com/mohamadlakkis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=web-element-creator&theme=prussian)](https://github.com/jadshaker/wallpapers-update)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=wallpapers-update&theme=prussian)](https://jadshaker.github.io/web-element-creator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamadlakkis&repo=whatsapp-bot&theme=prussian)](https://github.com/mohamadlakkis/whatsapp-bot)
 
 - 🌱 I’m currently learning React
 
