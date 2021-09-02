@@ -1,13 +1,13 @@
 # Hi there 👋
 
-![image](https://github-readme-stats.vercel.app/api?username=jadshaker&count_private=true&show_icons=true&hide=stars&theme=prussian)
+[![image](https://github-readme-stats.vercel.app/api?username=jadshaker&count_private=true&show_icons=true&hide=stars&theme=prussian)](https://github.com/jadshaker)
 
 Coding since October 14, 2020!
 
 - 🔭 I’m currently working on [wallpapers-update](https://github.com/jadshaker/wallpapers-update) and [web-element-creator](https://jadshaker.github.io/web-element-creator)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=web-element-creator&theme=prussian)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=wallpapers-update&theme=prussian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=web-element-creator&theme=prussian)](https://github.com/jadshaker/wallpapers-update)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=wallpapers-update&theme=prussian)](https://jadshaker.github.io/web-element-creator)
 
 - 🌱 I’m currently learning React
 
