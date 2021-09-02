@@ -4,27 +4,21 @@
     "editor.tabSize": 4
   },
   "breadcrumbs.enabled": false,
-  "cSpell.userWords": [
-    "Lexend",
-    "adminsdk",
-    "browserslist",
-    "emsp",
-    "jadshaker",
-    "jadshaker's",
-    "predeploy",
-    "pyautogui",
-    "rsplit",
-    "svglib",
-    "wakatime",
-    "webfonts"
-  ],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-user": {
+      "name": "custom-dictionary-user",
+      "path": "~/.cspell/custom-dictionary-user.txt",
+      "addWords": true,
+      "scope": "user"
+    }
+  },
+  "editor.bracketPairColorization.enabled": true,
   "editor.cursorBlinking": "smooth",
   "editor.cursorStyle": "underline",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.detectIndentation": false,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  // "editor.fontSize": 12,
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -38,16 +32,18 @@
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
   "security.workspace.trust.untrustedFiles": "open",
+  "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
   "terminal.integrated.fontFamily": "monospace",
   "terminal.integrated.tabs.enabled": false,
   "window.title": "${rootName}${separator}${dirty}${activeEditorShort}",
   "window.titleSeparator": " → ",
-  "workbench.activityBar.visible": false,
   "workbench.editorAssociations": {
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "zenMode.hideLineNumbers": false
+  "zenMode.hideLineNumbers": false,
+  "liveshare.connectionMode": "relay",
+  "workbench.activityBar.visible": false
 }

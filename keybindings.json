@@ -36,11 +36,6 @@
   },
   {
     "key": "f9",
-    "command": "-debug.ahk",
-    "when": "editorLangId == 'ahk'"
-  },
-  {
-    "key": "f9",
     "command": "workbench.action.toggleMaximizedPanel"
   },
   {
