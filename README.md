@@ -4,10 +4,7 @@
 
 Coding since October 14, 2020!
 
-- 🔭 I’m currently working on
-  - [wallpapers-update](https://github.com/jadshaker/wallpapers-update)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=wallpapers-update&theme=github_dark)](https://jadshaker.github.io/wallpapers-update)
+<!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning React
 
