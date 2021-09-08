@@ -4,7 +4,9 @@
 
 Coding since October 14, 2020!
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on [fut bot](https://github.com/jadshaker/fut-bot) with [mohamadlakkis](https://github.com/mohamadlakkis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=fut-bot&theme=github_dark)](https://github.com/jadshaker/fut-bot)
 
 - 🌱 I’m currently learning React
 
