@@ -29,6 +29,7 @@
     "**/.git": false
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveshare.connectionMode": "relay",
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
   "security.workspace.trust.untrustedFiles": "open",
@@ -37,13 +38,12 @@
   "terminal.integrated.tabs.enabled": false,
   "window.title": "${rootName}${separator}${dirty}${activeEditorShort}",
   "window.titleSeparator": " → ",
+  "workbench.activityBar.visible": false,
   "workbench.editorAssociations": {
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "zenMode.hideLineNumbers": false,
-  "liveshare.connectionMode": "relay",
-  "workbench.activityBar.visible": false
+  "zenMode.hideLineNumbers": false
 }
