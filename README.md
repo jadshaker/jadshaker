@@ -4,9 +4,7 @@
 
 Coding since October 14, 2020!
 
-- 🔭 I’m currently working on [online soccer manager bot](https://github.com/jadshaker/osm-bot) with [mohamadlakkis](https://github.com/mohamadlakkis)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=osm-bot&theme=github_dark)](https://github.com/jadshaker/osm-bot)
+<!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning React
 
