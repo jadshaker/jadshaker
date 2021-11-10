@@ -18,6 +18,6 @@ Coding since October 14, 2020!
 
 - 😄 Pronouns: He / Him
 
-- ⚡ Fun fact: I am only 16
+- ⚡ Fun fact: I am only 17
 
 ![image](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
