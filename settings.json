@@ -20,6 +20,7 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
@@ -29,7 +30,6 @@
     "**/.git": false
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "liveshare.connectionMode": "relay",
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
   "security.workspace.trust.untrustedFiles": "open",
@@ -38,12 +38,20 @@
   "terminal.integrated.tabs.enabled": false,
   "window.title": "${rootName}${separator}${dirty}${activeEditorShort}",
   "window.titleSeparator": " → ",
-  "workbench.activityBar.visible": false,
   "workbench.editorAssociations": {
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "zenMode.hideLineNumbers": false
+  "zenMode.hideLineNumbers": false,
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
+  "workbench.activityBar.visible": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  }
 }
