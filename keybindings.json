@@ -138,10 +138,6 @@
     "when": "workbench.view.search.active && neverMatch =~ /doesNotMatch/"
   },
   {
-    "key": "ctrl+shift+f",
-    "command": "workbench.view.search"
-  },
-  {
     "key": "ctrl+alt+n",
     "command": "-newFile.createNewFile"
   },
@@ -160,15 +156,6 @@
     "when": "!editorIsOpen"
   },
   {
-    "key": "ctrl+shift+f",
-    "command": "workbench.action.findInFiles"
-  },
-  {
-    "key": "ctrl+shift+f",
-    "command": "filesExplorer.findInFolder",
-    "when": "explorerResourceIsFolder && explorerViewletVisible && filesExplorerFocus && !inputFocus"
-  },
-  {
     "key": "shift+alt+f",
     "command": "-filesExplorer.findInFolder",
     "when": "explorerResourceIsFolder && explorerViewletVisible && filesExplorerFocus && !inputFocus"
@@ -180,5 +167,66 @@
   {
     "key": "ctrl+alt+s",
     "command": "codesnapshot.init"
+  },
+  {
+    "key": "ctrl+shift+h",
+    "command": "-workbench.action.replaceInFiles"
+  },
+  {
+    "key": "ctrl+shift+h",
+    "command": "selectAllSearchEditorMatches",
+    "when": "inSearchEditor"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "-selectAllSearchEditorMatches",
+    "when": "inSearchEditor"
+  },
+  {
+    "key": "ctrl+shift+h",
+    "command": "editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "-editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+shift+h",
+    "command": "addCursorsAtSearchResults",
+    "when": "fileMatchOrMatchFocus && searchViewletVisible"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "-addCursorsAtSearchResults",
+    "when": "fileMatchOrMatchFocus && searchViewletVisible"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "workbench.view.extension.gitlens"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "-workbench.view.scm",
+    "when": "workbench.scm.active"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "workbench.view.extension.github-pull-requests"
+  },
+  {
+    "key": "ctrl+shift+f",
+    "command": "workbench.view.search"
+  },
+  {
+    "key": "ctrl+shift+q",
+    "command": "workbench.view.scm",
+    "when": "workbench.scm.active && !gitlens:disabled && config.gitlens.keymap == 'chorded'"
+  },
+  {
+    "key": "ctrl+shift+g g",
+    "command": "-workbench.view.scm",
+    "when": "workbench.scm.active && !gitlens:disabled && config.gitlens.keymap == 'chorded'"
   }
 ]

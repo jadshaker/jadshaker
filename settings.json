@@ -3,6 +3,11 @@
     "editor.defaultFormatter": "ms-python.python",
     "editor.tabSize": 4
   },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.tabSize": 4
+  },
+  "[java]": { "editor.tabSize": 4 },
   "breadcrumbs.enabled": false,
   "cSpell.customDictionaries": {
     "custom-dictionary-user": {
@@ -26,9 +31,7 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.autoSave": "onFocusChange",
-  "files.exclude": {
-    "**/.git": false
-  },
+  "files.exclude": { "**/.git": false },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
@@ -42,16 +45,26 @@
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
   },
-  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "zenMode.hideLineNumbers": false,
   "editor.suggestSelection": "first",
   "editor.inlineSuggest.enabled": true,
-  "workbench.activityBar.visible": false,
+  "jupyter.askForKernelRestart": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "right"
+  },
   "github.copilot.enable": {
     "*": true,
     "yaml": false,
     "plaintext": false,
-    "markdown": false
-  }
+    "markdown": true,
+    "python": true
+  },
+  "python.insidersChannel": "off",
+  "workbench.sideBar.location": "right",
+  "gitlens.defaultTimeFormat": "HH:mm",
+  "gitlens.defaultDateFormat": "dddd, MMMM D, YYYY",
+  "gitlens.defaultDateShortFormat": "D-MMM-YY",
+  "workbench.activityBar.visible": false
 }
