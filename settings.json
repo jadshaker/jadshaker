@@ -25,6 +25,8 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
   "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -32,39 +34,40 @@
   "explorer.confirmDragAndDrop": false,
   "files.autoSave": "onFocusChange",
   "files.exclude": { "**/.git": false },
+  "git.confirmSync": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true,
+    "python": true,
+    "cpp": true
+  },
+  "gitlens.defaultDateFormat": "dddd, MMMM D, YYYY",
+  "gitlens.defaultDateShortFormat": "D-MMM-YY",
+  "gitlens.defaultTimeFormat": "HH:mm",
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "jupyter.askForKernelRestart": false,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "right"
+  },
+  "notebook.lineNumbers": "on",
+  "notebook.output.textLineLimit": 10,
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
+  "python.insidersChannel": "off",
   "security.workspace.trust.untrustedFiles": "open",
   "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
   "terminal.integrated.fontFamily": "monospace",
-  "terminal.integrated.tabs.enabled": false,
   "window.title": "${rootName}${separator}${dirty}${activeEditorShort}",
   "window.titleSeparator": " → ",
   "workbench.editorAssociations": {
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
   },
-  "workbench.startupEditor": "none",
-  "zenMode.hideLineNumbers": false,
-  "editor.suggestSelection": "first",
-  "editor.inlineSuggest.enabled": true,
-  "jupyter.askForKernelRestart": false,
-  "notebook.cellToolbarLocation": {
-    "default": "right",
-    "jupyter-notebook": "right"
-  },
-  "github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": true,
-    "python": true
-  },
-  "python.insidersChannel": "off",
+  "workbench.activityBar.visible": false,
   "workbench.sideBar.location": "right",
-  "gitlens.defaultTimeFormat": "HH:mm",
-  "gitlens.defaultDateFormat": "dddd, MMMM D, YYYY",
-  "gitlens.defaultDateShortFormat": "D-MMM-YY",
-  "workbench.activityBar.visible": false
+  "workbench.startupEditor": "none",
+  "zenMode.hideLineNumbers": false
 }
