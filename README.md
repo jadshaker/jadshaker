@@ -6,7 +6,7 @@ Coding since October 14, 2020!
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning Machine Learning and React
+- 🌱 I’m currently learning Machine Learning
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
