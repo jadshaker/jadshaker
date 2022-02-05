@@ -1,6 +1,6 @@
 # Hi there 👋 ![image](https://visitor-badge.laobi.icu/badge?page_id=jadshaker)
 
-![image](https://github-readme-stats.vercel.app/api?username=jadshaker&count_private=true&show_icons=true&theme=github_dark)
+![image](https://github-readme-stats.vercel.app/api?username=jadshaker&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)
 
 Coding since October 14, 2020!
 
