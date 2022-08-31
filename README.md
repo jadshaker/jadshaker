@@ -16,8 +16,6 @@ Coding since October 14, 2020!
 
 - 📫 How to reach me: [jadshaker](https://instagram.com/jadshaker)
 
-- 😄 Pronouns: He / Him
-
 - ⚡ Fun fact: I am only 17
 
 ![image](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
