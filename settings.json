@@ -4,7 +4,7 @@
     "editor.tabSize": 4
   },
   "[cpp]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools",
+    // "editor.defaultFormatter": "ms-vscode.cpptools"
     "editor.tabSize": 4
   },
   "[java]": { "editor.tabSize": 4 },
@@ -17,6 +17,7 @@
       "scope": "user"
     }
   },
+  "terminal.integrated.fontSize": 16,
   "audioCues.volume": 100,
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.bracketPairColorization.enabled": true,
@@ -39,11 +40,11 @@
   "files.exclude": { "**/.git": false },
   "git.confirmSync": false,
   "github.copilot.enable": {
-    "*": true,
+    "*": false,
     "yaml": false,
-    "plaintext": true,
+    "plaintext": false,
     "markdown": true,
-    "python": true,
+    "python": false,
     "cpp": false,
     "java": true
   },
@@ -59,15 +60,12 @@
   "notebook.output.textLineLimit": 10,
   "prettier.arrowParens": "avoid",
   "prettier.singleQuote": true,
-  "python.defaultInterpreterPath": "C:\\Users\\jaads\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-  "python.formatting.autopep8Args": ["--max-line-length", "150"],
+  "python.formatting.autopep8Args": ["--max-line-length", "250"],
   "security.workspace.trust.untrustedFiles": "open",
-  "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "terminal.integrated.fontFamily": "monospace",
   "window.title": "${rootName}${separator}${dirty}${activeEditorShort}",
   "window.titleSeparator": " → ",
-  "workbench.activityBar.visible": false,
   "workbench.editorAssociations": {
     "*.html": "default",
     "*.ipynb": "jupyter-notebook"
@@ -75,6 +73,7 @@
   "workbench.iconTheme": "vscode-icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "workbench.welcomePage.experimental.videoTutorials": "on",
-  "zenMode.hideLineNumbers": false
+  "zenMode.hideLineNumbers": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.zoomLevel": -1
 }
