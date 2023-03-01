@@ -16,6 +16,6 @@ Coding since October 14, 2020!
 
 - 📫 How to reach me: [jadshaker](https://instagram.com/jadshaker)
 
-- ⚡ Fun fact: I am only 17
+- ⚡ Fun fact: I am only 18`
 
 ![image](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
