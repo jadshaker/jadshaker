@@ -1,4 +1,4 @@
-# Hi there 👋 ![image](https://visitor-badge.laobi.icu/badge?page_id=jadshaker)
+# Hi there 👋 !
 
 Coding since October 14, 2020!
 
